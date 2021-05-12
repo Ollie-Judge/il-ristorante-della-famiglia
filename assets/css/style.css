@@ -38,3 +38,69 @@ header {
     border-radius: 50%;
     border: 1px solid rgb(181, 181, 181, 0.5);
 }
+
+/* ----------------------------------------Navbar */
+
+.green {
+    width: 33%;
+    background-color: green;
+    color: black;
+    text-align: center;
+}
+
+.white {
+    width: 33%;
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+
+.red {
+    width: 33%;
+    background-color: red;
+    color: black;
+    text-align: center;
+}
+
+.nav-table {
+    width: 100%;
+    height: 75px;
+    border-collapse: collapse;
+    background-color: rgb(204, 204, 153);
+}
+
+.table-home {
+    width: 33%;
+    text-align: center;
+}
+
+.table-menu {
+    width: 33%;
+    text-align: center;
+}
+
+.table-bookings {
+    width: 33%;
+    text-align: center;
+}
+
+.table-story {
+    width: 33%;
+    text-align: center;
+}
+
+button {
+    transition: 0.4s;
+    border-radius: 15px;
+    border: 2px solid black;
+    box-shadow: 0px 2px 2px black;
+    padding: 15px 32px;
+}
+
+button:hover {
+    background-color: rgb(252, 252, 151);
+}
+
+.fa-home, .fa-clipboard, .fa-address-book, .fa-book {
+    display: none;
+}
