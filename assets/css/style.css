@@ -1,0 +1,40 @@
+html, header, body, footer {
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    font-family:
+}
+
+/* ----------------------------------------Gneral body */
+
+body {
+    background-color: rgb(255,253,208);
+}
+
+/* ----------------------------------------Header */
+
+header {
+    top: 0;
+    left: 0;
+}
+
+.heading-text {
+    width: 33%;
+    background-color: white;
+    text-align: center;
+}
+
+.table-header {
+    width: 100%;
+    top: 0;
+    left: 0;
+    border-collapse: collapse;
+}
+
+.chef-image {
+    height: 125px;
+    width: 100px;
+    border-radius: 50%;
+    border: 1px solid rgb(181, 181, 181, 0.5);
+}
