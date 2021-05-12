@@ -12,6 +12,10 @@ body {
     background-color: rgb(255,253,208);
 }
 
+.heading-text, h1 p {
+    font-family: 'Merienda One', 'Brush Script MT', cursive;
+}
+
 /* ----------------------------------------Header */
 
 header {
@@ -103,6 +107,35 @@ button:hover {
 
 .fa-home, .fa-clipboard, .fa-address-book, .fa-book {
     display: none;
+}
+
+/* ----------------------------------------Body */
+
+.table-home-main {
+    width: 100%;
+}
+
+.td-wwd-h {
+    text-align: center;
+    width: 33%;
+}
+
+.td-ot-h {
+    text-align: center;
+    width: 33%;
+}
+
+.td-wtf-h {
+    text-align: center;
+    width: 33%;
+}
+
+.t-main-h {
+    font-family: cursive;
+}
+
+.td-ot {
+    text-align: center;
 }
 
 /* ----------------------------------------Footer */
