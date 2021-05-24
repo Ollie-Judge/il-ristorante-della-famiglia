@@ -138,6 +138,57 @@ button:hover {
     text-align: center;
 }
 
+/* ----------------------------------------Bookings body */
+
+.word-bookings {
+    text-align: center;
+    font-family: cursive;
+}
+
+form {
+    text-align: center;
+    width: 100%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+label {
+    text-align: left;
+}
+
+#fname {
+    width: 50%;
+    padding: 9px 10px;
+}
+
+#lname {
+    width: 50%;
+    padding: 9px 10px;
+}
+
+#email {
+    width: 50%;
+    padding: 9px 10px;
+}
+
+#noguests {
+    width: 50%;
+    padding: 3px 4px;
+}
+
+#toa-hours {
+    width: 25%;
+    padding: 3px 4px;
+}
+
+#toa-mins {
+    width: 25%;
+    padding: 3px 4px;
+}
+
+#spec-req {
+    width: 75%;
+}
+
 /* ----------------------------------------Menu page */
 
 .h-menu {
