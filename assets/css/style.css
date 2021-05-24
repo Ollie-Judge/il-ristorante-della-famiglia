@@ -138,6 +138,26 @@ button:hover {
     text-align: center;
 }
 
+/* ----------------------------------------Menu page */
+
+.h-menu {
+    text-align: center;
+    font-family: cursive;
+}
+
+.menu-table {
+    width: 100%;
+    font-family: cursive;
+}
+
+.menu-text {
+    text-align: center;
+}
+
+.spacer {
+    width: 33%;
+}
+
 /* ----------------------------------------Footer */
 
 #social-media-table {
