@@ -6,7 +6,7 @@ html, header, body, footer {
     font-family:
 }
 
-/* ----------------------------------------Gneral body */
+/* ----------------------------------------General body */
 
 body {
     background-color: rgb(255,253,208);
@@ -109,7 +109,7 @@ button:hover {
     display: none;
 }
 
-/* ----------------------------------------Body */
+/* ----------------------------------------Home Body */
 
 .table-home-main {
     width: 100%;
