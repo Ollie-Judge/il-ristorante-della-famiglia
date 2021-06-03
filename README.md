@@ -113,4 +113,5 @@ For all of the hints and tips i used: https://www.w3schools.com/html/default.asp
 For figuring out how to position divs horizontally next to each other i used: https://www.w3docs.com/snippets/css/how-to-align-divs-side-by-side.html
 For the Chef image i got it from: https://www.clipartkey.com/view/ixJmJi_transparent-cook-clipart-italian-chef-cartoon-transparent/
 For making the text stay on one line when resizing the tab i used: https://stackoverflow.com/questions/41248992/get-button-text-on-to-one-line#41250173
+For making a responsive nav bar i used: https://www.modern-css.com/responsive-navbar-with-css-grid.html
 For the menu content i got the menu content from: "Jamie Oliver Jamies Italy" cook book
