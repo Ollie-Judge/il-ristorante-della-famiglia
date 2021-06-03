@@ -110,5 +110,6 @@ The site was deployed to GitHub pages, here are the steps i took to deploy the s
 ## Credits
 
 For all of the hints and tips i used: https://www.w3schools.com/html/default.asp
+For figuring out how to position divs horizontally next to each other i used: https://www.w3docs.com/snippets/css/how-to-align-divs-side-by-side.html
 For the Chef image i got it from: https://www.clipartkey.com/view/ixJmJi_transparent-cook-clipart-italian-chef-cartoon-transparent/
 For the menu content i got the menu content from: "Jamie Oliver Jamies Italy" cook book

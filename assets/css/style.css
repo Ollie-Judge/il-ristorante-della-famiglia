@@ -1,5 +1,5 @@
 html, header, body, footer {
-    height: 100%;
+    min-height: 100%;
     width: 100%;
     padding: 0;
     margin: 0;
@@ -12,22 +12,11 @@ body {
     background-color: rgb(255,253,208);
 }
 
-.heading-text, h1 p {
-    font-family: 'Merienda One', 'Brush Script MT', cursive;
+p {
+    font-style: normal;
 }
 
 /* ----------------------------------------Header */
-
-header {
-    top: 0;
-    left: 0;
-}
-
-.heading-text {
-    width: 33%;
-    background-color: white;
-    text-align: center;
-}
 
 .table-header {
     width: 100%;
@@ -43,58 +32,51 @@ header {
     border: 1px solid rgb(181, 181, 181, 0.5);
 }
 
-/* ----------------------------------------Navbar */
-
 .green {
     width: 33%;
     background-color: green;
-    color: black;
-    text-align: center;
 }
 
 .white {
     width: 33%;
     background-color: white;
-    color: black;
     text-align: center;
 }
 
 .red {
     width: 33%;
     background-color: red;
-    color: black;
-    text-align: center;
 }
 
+/* ----------------------------------------Navbar */
 .nav-table {
     width: 100%;
-    height: 75px;
-    border-collapse: collapse;
-    background-color: rgb(255,253,208);
-    left: 25%;
-    right:25%;
 }
 
 .home {
     width: 25%;
+    float: left;
     text-align: center;
     background-color: rgb(255,253,208);
 }
 
 .menu {
     width: 25%;
+    float: left;
     text-align: center;
     background-color: rgb(255,253,208);
 }
 
 .bookings {
     width: 25%;
+    float: center;
     text-align: center;
     background-color: rgb(255,253,208);
 }
 
 .story {
     width: 25%;
+    float: right;
     text-align: center;
     background-color: rgb(255,253,208);
 }
@@ -110,39 +92,12 @@ button:hover {
     background-color: rgb(252, 252, 151);
 }
 
-.fa-home, .fa-clipboard, .fa-address-book, .fa-book {
-    display: none;
-}
-
 /* ----------------------------------------Body home */
 
-.table-home-main {
+.div-home-main {
     width: 100%;
-}
-
-.td-wwd-h {
-    text-align: center;
-    width: 33%;
-}
-
-.td-ot-h {
-    text-align: center;
-    width: 33%;
-}
-
-.td-wtf-h {
-    text-align: center;
-    width: 33%;
-}
-
-.t-main-h {
-    font-family: cursive;
-}
-
-.td-ot {
     text-align: center;
 }
-
 
 /* ----------------------------------------Bookings body */
 
@@ -216,33 +171,39 @@ label {
 
 /* ----------------------------------------Our Story page */
 
-.os-table {
-    width: 100%;
+.ethics {
+    float: left;
+    text-align: center;
+}
+
+.our-story-info {
+    float: right;
     text-align: center;
 }
 /* ----------------------------------------Footer */
 
-#social-media-table {
+#social-media-div {
     width: 100%;
-    height: 40px;
-    border-collapse: collapse;
-    bottom: 0;
 }
 
 .facebook {
     width: 33%;
+    float: left;
     background-color: green;
     text-align: center;
 }
 
 .instagram {
     width: 33%;
+    float: center;
+    margin: 0 auto;
     background-color: white;
     text-align: center;
 }
 
 .twitter {
     width: 33%;
+    float: right;
     background-color: red;
     text-align: center;
 }
