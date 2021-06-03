@@ -206,7 +206,7 @@ label {
 
 .instagram {
     width: 33%;
-    float: center;
+    margin: 0 auto;
     margin: 0 auto;
     background-color: white;
     text-align: center;

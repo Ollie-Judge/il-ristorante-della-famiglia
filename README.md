@@ -68,6 +68,10 @@ In the Our Story page there are 2 halfs to the page, one half being about the co
 
 ## Testing
 
+During my last mentor meeting i showed of the finished website and was informed that if there were any errors it would be automatically failied, so i went back to the drawing board and so, due to this, i have split the testing into 2 parts, before and after the mentor meeting.
+
+## Before my mentor meeting
+
 ### HTML Testing
 
 ![index testing screenshot](assets/images/index-testing.png)
@@ -92,8 +96,21 @@ For HTML testing, i used: https://validator.w3.org/
 The error i found in css testing is that i have written the font-family selection, but not actually identified one in the "head, body and footer" classes
 
 For CSS testing, i used:https://jigsaw.w3.org/css-validator/
-### Unfixed bugs
-The bugs i have not fixed are: the button inside the a element, i have not fixed this because in order to do this, i need to use java-script, i have also not adjusted iframe height and width because i want the element to change size with the size of the website, as i believe that the rigid pixel system does not adapt to the changed automatically.
+
+------
+
+## After my mentor meeting
+
+### HTML testing
+![fixed home page 1](assets/images/home-page-fixed-pt1.png)
+![fixed home page 2](assets/images/home-page-fixed-pt2.png)
+![fixed menu page](assets/images/menu-fixed.png)
+![fixed bookings page 1](assets/images/bookings-fixed-pt1.png)
+![fixed bookings page 2](assets/images/bookings-fixed-pt2.png)
+![fixed our story](assets/images/our-story-fixed.png)
+
+## CSS testing
+![fixed](assets/images/)
 
 ------- 
 
