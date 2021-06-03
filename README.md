@@ -5,12 +5,21 @@
 Il Ristorante Della Famiglia is a website for a Restaurant in London England that is designed to raise awareness to people visiting the area in which the restaurant is located, and to also raise awareness in the local area to people who do not know about the restaurants existence already. The websites goals for potential customers are: to provide the potential customer with a general rundown of information they may need before entering the restaurant, such as; events happening soon, what’s on the menu, where on a map the restaurant is located and even some history and a general background about the restaurant, such as; where the produce is sourced, what effort the restaurant is going-to to be ethical, sustainable and how they cut down on wastage. The customer should also be able to find an easy to use and access booking section which will make it easier and hassle free to reserve a table.
 
 ------
+## User requirements
 
-The requirements for the website by the restaurant owners are for the website to present the restaurant as a high quality, professional place that appeals to all types of people; restaurant critics, restaurant owners, families and also people that just want to have a quick meal and leave. The website should be easy to use and easily accessible for all types of people so that the website reflects the restaurant as an appealing and inclusive place. Finally, the restaurant should display all the information a customer may need, meaning when they arrive at the restaurant they’re fully informed and familiar with the restaurant and shouldn’t need to ask any questions to the waiter/waitress.
+The requirements for the website by the restaurant owners are for the website to present the restaurant as a high quality, professional place that appeals to all types of people; restaurant critics, restaurant owners, families and also people that just want to have a quick meal and leave. 
+
+The website should be easy to use and easily accessible for all types of people so that the website reflects the restaurant as an appealing and inclusive place. 
+
+Finally, the restaurant should display all the information a customer may need, meaning when they arrive at the restaurant they’re fully informed and familiar with the restaurant and shouldn’t need to ask any questions to the waiter/waitress.
 
 ------
 
 ![blueprints](assets/images/blueprints.png)
+
+-------
+
+![responsive design](assets/images/responsive-design.png)
 
 ------
 
@@ -102,6 +111,22 @@ For CSS testing, i used:https://jigsaw.w3.org/css-validator/
 ## After my mentor meeting
 
 ### HTML testing
+
+#### Home page 
+![fixed testing home](assets/images/home-page-testing-fixed.png)
+
+#### Menu page
+![fixed testing menu](assets/images/menu-testing-fixed.png)
+
+#### Bookings page
+![fixed testing bookings](assets/images/bookings-testing-fixed.png)
+
+#### Our story page
+![fixed testing our story](assets/images/our-story-testing-fixed.png)
+
+As you can see from the screenshots above, i have successfully corrected all the errors i made and have re-tested the pages and it has come back with no errors found
+
+## pages once testing has been completed
 ![fixed home page 1](assets/images/home-page-fixed-pt1.png)
 ![fixed home page 2](assets/images/home-page-fixed-pt2.png)
 ![fixed menu page](assets/images/menu-fixed.png)
@@ -109,8 +134,12 @@ For CSS testing, i used:https://jigsaw.w3.org/css-validator/
 ![fixed bookings page 2](assets/images/bookings-fixed-pt2.png)
 ![fixed our story](assets/images/our-story-fixed.png)
 
+For HTML testing, i used: https://validator.w3.org/
 ## CSS testing
-![fixed](assets/images/)
+![fixed css testing](assets/images/css-testing-fixed.png)
+The css had no errors to begin with and so haas not changed
+
+For CSS testing, i used:https://jigsaw.w3.org/css-validator/
 
 ------- 
 
@@ -126,7 +155,7 @@ The site was deployed to GitHub pages, here are the steps i took to deploy the s
 
 ## Credits
 
-For all of the hints and tips i used: https://www.w3schools.com/html/default.asp
+For most of the hints and tips i used: https://www.w3schools.com/html/default.asp
 For figuring out how to position divs horizontally next to each other i used: https://www.w3docs.com/snippets/css/how-to-align-divs-side-by-side.html
 For the Chef image i got it from: https://www.clipartkey.com/view/ixJmJi_transparent-cook-clipart-italian-chef-cartoon-transparent/
 For making the text stay on one line when resizing the tab i used: https://stackoverflow.com/questions/41248992/get-button-text-on-to-one-line#41250173
